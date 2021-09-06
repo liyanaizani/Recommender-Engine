@@ -11,6 +11,9 @@ This Case Study is targeted to build a recommendation system based on individual
 
 To build a recommendation system using  collaborative filtering methods to recommend mobile phones to a user which are most popular and personalised respectively
 
-## Adaption and source:
+## Adaption and data source:
 
 https://www.kaggle.com/dsrivastava2020/recommendation-system
+
+
+
